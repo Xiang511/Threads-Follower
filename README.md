@@ -1,4 +1,4 @@
-# Instagram-Follow-Back-Tracker
+# Threads-Follow-Back-Tracker
 ![GitHub last commit](https://img.shields.io/github/last-commit/Xiang511/Threads-Follower?display_timestamp=committer&style=flat-square) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Xiang511/Threads-Follower?style=flat-square) ![GitHub Created At](https://img.shields.io/github/created-at/Xiang511/Threads-Follower?style=flat-square) ![GitHub License](https://img.shields.io/github/license/Xiang511/Threads-Follower?style=flat-square) <img src="https://hits.dwyl.com/Xiang511/Instagram-Follow-Back-Tracker.svg?style=flat-square" alt="">
 
 This method utilizes Instagram's "Download Your Data" feature to retrieve a list of your followers and following. By comparing the two lists, you can identify those who no longer follow you back.This tool only requires a JSON file and does not require any authorization or authentication. 
