@@ -1,6 +1,6 @@
 {
   "name": "threads-follower",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Find who Find who's not following you back on Instagram ",
   "main": "FetchName.js",
   "scripts": {
