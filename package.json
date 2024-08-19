@@ -1,0 +1,17 @@
+{
+  "name": "threads-follower",
+  "version": "1.0.0",
+  "description": "Find who Find who's not following you back on Instagram ",
+  "main": "FetchName.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node FetchAllUserPicture.js"
+      
+  },
+  "author": "hsiang",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer-core": "^23.1.0"
+  }
+}
