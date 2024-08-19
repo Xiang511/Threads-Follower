@@ -90,7 +90,7 @@ jsonData.forEach(item => {
 });
 
 // 將更新後的資料寫回 JSON 檔案
-fs.writeFileSync('將這個檔案上傳至網站.json', JSON.stringify(jsonData, null, 2));
+fs.writeFileSync('AppData.json', JSON.stringify(jsonData, null, 2));
 
 console.log('已新增 profilePicture 屬性並更新 filtered_following.json 檔案');
 
