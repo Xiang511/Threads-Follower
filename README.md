@@ -8,6 +8,11 @@ This method utilizes Instagram's "Download Your Data" feature to retrieve a list
 >
 > If you want to quickly obtain a list of people who don't follow you, please go [here](https://xiang511.com/Instagram-Follow-Back-Tracker/threads.html).
 
+## Require
+ ```Node.js```
+ 
+ ```Visual studio code```
+
 ## Features
 
 - [x] Optimize website interface
@@ -44,7 +49,7 @@ Okay, we're all set. Let's start!
 
 4. ``` npm i threads-follower ```
    
-5. ``` "start": "node FetchAllUserPicture.js" ```
+5. ``` "start": "node FetchAllUserPicture.js" ``` (Don't forget to check the location of your chrome.exe. Line:29)
    
 6. The program will then gradually crawl images of people who don't follow you. (This may take some time.)
    
