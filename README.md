@@ -62,5 +62,5 @@ This website does not retain any relevant information, it only offers search cap
 
 ## License
 
-This project is published under GPL-3.0 License.
+This project is published under Apache-2.0 license
 
